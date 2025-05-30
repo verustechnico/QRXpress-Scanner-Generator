@@ -27,7 +27,7 @@ QRXpress **does not collect or store any personal information**. All scan and QR
 
 🔒 No data is uploaded or stored on external servers. You have complete control over your data.
 
-🔗 [Read the full privacy policy here](index.html)
+🔗 [Read the full privacy policy here](https://verustechnico.github.io/QRXpress-Scanner-Generator/)
 
 ---
 
@@ -55,12 +55,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ### © Copyright
 
-```html
-<footer>
-  &copy; <span id="year"></span> QRXpress. All rights reserved.
-</footer>
+  &copy; QRXpress. All rights reserved.
 
-<script>
-  document.getElementById("year").textContent = new Date().getFullYear();
-</script>
 ```
